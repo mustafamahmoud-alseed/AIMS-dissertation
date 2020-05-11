@@ -5,7 +5,7 @@
  Run the script in two steps:
 
  - First, run without any interventions, such that
-season <- ( 1 + amp*cos(2*pi*times/180)).
+`season <- ( 1 + amp*cos(2*pi*times/180))`.
 
 - Second, run with interventions when
 `season <- ( 1   amp*cos(2*pi*times/180))*exp(-m)` 
