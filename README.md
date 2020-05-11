@@ -1,13 +1,13 @@
 # AIMS-dissertation
 
-- LF-simulation:
+1. LF-simulation:
 
---  Run the script in two steps:
+ Run the script in two steps:
 
---- First, run without any interventions, such that
+ - First, run without any interventions, such that
 season <- ( 1 + amp*cos(2*pi*times/180)).
 
---- Second, run with interventions when
+- Second, run with interventions when
 season <- ( 1   amp*cos(2*pi*times/180))*exp(-m), 
 where m is the intervention varying from 0.1 to 0.4.
 Run the script when m = 0.1, 0.2, 0.3 and 0.4, thus you can observe the impact of the interventions.
