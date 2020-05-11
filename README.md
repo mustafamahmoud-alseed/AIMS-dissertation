@@ -2,7 +2,7 @@
 
 - LF-simulation:
 
--- Run the script in two steps:
+--  Run the script in two steps:
 
 --- First, run without any interventions, such that
 season <- ( 1 + amp*cos(2*pi*times/180)).
