@@ -1,6 +1,6 @@
 # AIMS-dissertation
 
--LF-simulation:
+- LF-simulation:
 
 -- Run the script in two steps:
 
