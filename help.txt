@@ -1,0 +1,7 @@
+git add .    ** add all the files you have just added into the folder to the staging area.
+git commit -m"message"      **commiting the changes in the staging area.
+git push             ** push the change into the remote repo.
+
+
+
+git pull       ** run this command when you make changes on the remote repository.
