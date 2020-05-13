@@ -17,6 +17,6 @@ The focus should be on the human's plottings.
 
 2. LF-fitting:
 
-- Run the script without interventions for `I_{ha},I_{hc}` and `I_{ha} + I_{hc}`
+- Run the script without interventions for `I_ha, I_hc` and `I_ha + I_hc`.
 
-- Repeat the process with interventions
+- Repeat the process with interventions.
